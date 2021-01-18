@@ -1,2 +1,2 @@
-# All-About-Cofee
-A website created using html and css during "Webmasters" project - a society in University.
+# TheWebMasters-Workshops
+This repository will contain all material related to the workshop (Slides + Code Snippets
